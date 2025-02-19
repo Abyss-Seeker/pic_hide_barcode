@@ -1,4 +1,10 @@
-# pic_hide_barcode
+<div align="center">
+  <a href="https://github.com/Abyss-Seeker/pic_hide_barcode">
+    <img src="logo.png" alt="Logo" width="150" height="150">
+  </a>
+</div>
+<h1 align="center">Pic_Hide_Barcode</h1>
+
 ## From original author:
 
 hide barcode in a picture. 在一张普通图片里隐藏二维码，可以被微信识别。这个代码谁都可以用，唯独有一个人不给用，抖X上有个叫“大神开发”的营销号，先后盗了我十几个原创视频，我从未见过如此厚颜无耻之人！
